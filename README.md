@@ -42,8 +42,3 @@ Para configurar y desplegar el sistema, se deben seguir los siguientes pasos:
 - Servidor local XAMPP o similar.
 - Navegador web.
 
-## Soporte
-Para soporte, por favor contactar a [correo de contacto].
-
-## Contribuciones
-Las contribuciones al proyecto son bienvenidas. Por favor, envía tus sugerencias o pull requests a [repositorio del proyecto].
